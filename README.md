@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 ![imagen1](https://raw.githubusercontent.com/jOrtegaFreire/github-page-test/master/2006744_w670.jpg)
 
+<img src="https://www.ubiobio.cl/mcc/images/logofigura%201.png" alt="logo ubb" width="100px" height="100px">
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

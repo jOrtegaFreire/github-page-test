@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![imagen1](https://github.com/jOrtegaFreire/github-page-test/blob/master/2006744_w670.jpg)
+![imagen1](https://github.com/jOrtegaFreire/github-page-test/blob/master/2006744_w670.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
